@@ -12,3 +12,5 @@ A GFAQs Formatted FAQ syntax highlighter for NotePad++.
  * After that, you can either save your files with the .ffaq extension or select FFAQ from the languages menu.
  * You may need to restart first?
  * You can modify the colors to fit your preferences/theme better through the User Defined Language menu. You can get a transparent color by right clicking the color boxes. (This is a super secret feature that can save you trouble.)
+
+![Example](https://github.com/CatClawed/NP-FFAQ-Highlighting/blob/master/Example.png)
